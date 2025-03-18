@@ -27,7 +27,7 @@ The following **required** functionality is completed:
 1. You can connect Google Calendar to Notion Calendar, and also connect to your Notion database so you can have events AND tasks (from your database) shown at the same time
 2. Very clean and organized interface/UI
 
-I want to make an app that combines Notion, Notion Calendar, and Google Calendar. Although these applications are very convenient to use, there are certain features that makes it harder to use. I want a calendar app like Notion Calendar where I can connect to Notion databases but also be able to make tasks in the app itself instead of having to go into Notion and add tasks there. It's just not efficient. I also want to make the tasks show as to-do lists so I feel more accomplished when I check off boxes. I also want to add a "notes" section where I can list/write about things happening in that day or some things I want to do that aren't "tasks" to be exact.
+I want to make an app that combines Notion, Notion Calendar, and Google Calendar. Although these applications are very convenient to use, there are certain features that makes it harder to use. I want a calendar app like Notion Calendar where I can connect to Notion databases but also be able to make tasks in the app itself instead of having to go into Notion and add tasks there. It's just not efficient. I also want to make the tasks show as to-do lists so I feel more accomplished when I check off boxes. I also want to add a "notes" section where I can list/write about things happening in that day or some things I want to do that aren't "tasks" to be exact. Since I do workout, I think I want to be able to showcase what workouts I want to do on the days that I do workout.
 
 ## Notes
 
